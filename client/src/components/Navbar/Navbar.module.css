@@ -1,0 +1,1354 @@
+.watercolorPaperTexture1Icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 900px;
+    object-fit: cover;
+  }
+  .watercolorPaperTexture2Icon,
+  .watercolorPaperTexture3Icon,
+  .watercolorPaperTexture4Icon {
+    position: absolute;
+    top: 900px;
+    left: 0;
+    width: 1440px;
+    height: 900px;
+    object-fit: cover;
+  }
+  .watercolorPaperTexture3Icon,
+  .watercolorPaperTexture4Icon {
+    top: 1800px;
+  }
+  .watercolorPaperTexture4Icon {
+    top: 2700px;
+  }
+  .watercolorPaperTexture5Icon,
+  .watercolorPaperTexture6Icon,
+  .watercolorPaperTexture7Icon {
+    position: absolute;
+    top: 3592px;
+    left: 0;
+    width: 1440px;
+    height: 900px;
+    object-fit: cover;
+  }
+  .watercolorPaperTexture6Icon,
+  .watercolorPaperTexture7Icon {
+    top: 4492px;
+  }
+  .watercolorPaperTexture7Icon {
+    top: 5392px;
+  }
+  .plantShopChild {
+    position: absolute;
+    top: 169px;
+    left: 910px;
+    width: 450px;
+    height: 563px;
+  }
+  /* .about,
+  .blog,
+  .contactUs,
+  .home,
+  .shop {
+    position: absolute;
+    top: 25px;
+    left: 504px;
+    font-weight: 500;
+    color: #25523b !important;
+  }
+  .about,
+  .blog,
+  .contactUs,
+  .shop {
+    left: 702px;
+  }
+  .home{
+    left: 625px;
+  }
+  .blog,
+  .contactUs,
+  .shop {
+    left: 774px;
+    color: #25523b !important;
+  }
+  .blog,
+  .contactUs {
+    left: 837px;
+  }
+  .contactUs {
+    left: 895px;
+  } */
+
+  .about,
+  .blog,
+  .contactUs,
+  .home,
+  .shop {
+    font-weight: 500;
+    color: #25523b !important;
+  }
+  .login,
+  .loginWrapper {
+    /* position: absolute;
+    top: 7px;
+    left: 27px; */
+    color: #fff !important;
+  }
+  .loginWrapper {
+    /* top: 18px;
+    left: 1039px; */
+    background-color: var(--color-darkslategray);
+    width: 100px;
+    height: 35px;
+    overflow: hidden;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    border-radius: 2px !important;
+  }
+  /* .register,
+  .registerWrapper {
+    position: absolute;
+    top: 7px;
+    left: 17px;
+  } */
+  .registerWrapper {
+    /* top: 18px;
+    left: 1149px; */
+    background-color: var(--color-darkslategray);
+    width: 100px;
+    height: 35px;
+    overflow: hidden;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    border-radius: 2px !important;
+  }
+
+  .homeParent{
+    display: flex;
+    align-items: center;
+    /* height: 500px; */
+  }
+
+  .homeParent nav{
+    flex: 1;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    margin-left: 630px;
+    /* margin-bottom: 20px; */
+
+  }
+
+  .homeParent nav div{
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+    margin-right: 15px;
+    /* margin-bottom: 15px; */
+  }
+
+  .loginWrapper, .registerWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+  }
+
+  .login, .register{
+    text-decoration: none;
+    list-style-type: none;
+  }
+
+  .login{
+    margin-right: 26px !important;
+    margin-top: 5px !important;
+  }
+
+  /* .login{
+    margin: auto;
+  } */
+
+  .register{
+    margin-top: 5px !important;
+  }
+
+  .allCategory {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 500;
+  }
+  .vectorIcon {
+    position: absolute;
+    height: 33.33%;
+    width: 9.26%;
+    top: 33.33%;
+    right: 0;
+    bottom: 33.33%;
+    left: 90.74%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .allCategoryParent,
+  .layer2Icon {
+    position: absolute;
+    top: 25px;
+    left: 644px;
+    width: 108px;
+    height: 18px;
+  }
+  .layer2Icon {
+    height: 69.08%;
+    width: 4.07%;
+    top: 15.71%;
+    right: 93.9%;
+    bottom: 15.21%;
+    left: 2.03%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .planty {
+    position: absolute;
+    top: 21px;
+    left: 88px;
+    font-size: var(--font-size-6xl);
+    letter-spacing: 0.05em;
+    font-family: var(--font-times-new-roman);
+  }
+  .homeParent {
+    position: absolute;
+    top: 30px;
+    left: 81px;
+    background-color: rgba(53, 136, 86, 0.2);
+    width: 1279px;
+    height: 70px;
+    overflow: hidden;
+    font-size: var(--font-size-mini);
+  }
+  .span {
+    color: var(--color-darkslategray);
+    font-size: var(--font-size-3xl);
+  }
+  .loremIpsumDolor,
+  .newPriceContainer {
+    position: absolute;
+    top: 249px;
+    left: 128px;
+  }
+  .loremIpsumDolor {
+    top: 120px;
+    left: 5px;
+    line-height: 25px;
+    text-align: left;
+    display: inline-block;
+    width: 511px;
+  }
+  .aNewFriend,
+  .letsBring {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 30px;
+    color: var(--color-darkslategray);
+  }
+  .aNewFriend {
+    top: 40px;
+    left: 3px;
+    font-size: 60px;
+  }
+  .shopNow,
+  .shopNowWrapper {
+    position: absolute;
+    top: 9px;
+    left: 13px;
+  }
+  .shopNowWrapper {
+    top: 245px;
+    left: 3px;
+    background-color: var(--color-darkslategray);
+    width: 100px;
+    height: 35px;
+    overflow: hidden;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+  }
+  .newPrice30Parent {
+    position: absolute;
+    top: 311px;
+    left: 189px;
+    width: 634px;
+    height: 280px;
+    color: var(--color-black);
+  }
+  .plants21,
+  .plants22 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 88px;
+    height: 661.49px;
+    overflow: hidden;
+    opacity: 0.2;
+  }
+  .plants22 {
+    top: 582px;
+    width: 216.2px;
+    height: 357.95px;
+  }
+  .groupChild {
+    position: absolute;
+    top: 14.5px;
+    left: -0.5px;
+    border-top: 1px solid var(--color-darkslategray);
+    box-sizing: border-box;
+    width: 109px;
+    height: 1px;
+  }
+  .span2 {
+    font-weight: 600;
+  }
+  .span3 {
+    font-size: var(--font-size-mini);
+  }
+  .div,
+  .lineParent {
+    position: absolute;
+    top: 0;
+    left: 128px;
+  }
+  .lineParent {
+    top: 782px;
+    left: 910px;
+    width: 184px;
+    height: 30px;
+    font-size: var(--font-size-6xl);
+  }
+  .plant41 {
+    position: absolute;
+    top: 0;
+    left: 1380px;
+    width: 107px;
+    height: 445px;
+    overflow: hidden;
+    opacity: 0.2;
+  }
+  .dealOfThe {
+    position: absolute;
+    top: 882px;
+    left: 602px;
+    font-size: var(--font-size-9xl);
+  }
+  .plantCollection,
+  .shopByCategory,
+  .whatOurCustomers {
+    position: absolute;
+    top: 2194px;
+    left: 588px;
+    font-size: var(--font-size-9xl);
+  }
+  .plantCollection,
+  .whatOurCustomers {
+    top: 4306px;
+    left: 603px;
+  }
+  .whatOurCustomers {
+    top: 4874px;
+    left: 522px;
+  }
+  .plantShopItem {
+    position: absolute;
+    top: 956px;
+    left: 0;
+    width: 487px;
+    height: 672px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .golden {
+    margin: 0;
+  }
+  .div1,
+  .div2,
+  .goldenPothos {
+    position: absolute;
+    line-height: 40px;
+    font-weight: 600;
+  }
+  .goldenPothos {
+    top: 0;
+    left: 0;
+    text-align: left;
+  }
+  .div1,
+  .div2 {
+    top: 85px;
+  }
+  .div1 {
+    left: 0;
+    font-size: var(--font-size-base);
+    text-decoration: line-through;
+    color: var(--color-darkgray-100);
+  }
+  .div2 {
+    left: 54px;
+    font-size: var(--font-size-3xl);
+  }
+  .goldenPothosParent,
+  .groupItem {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 116px;
+    height: 125px;
+  }
+  .groupItem {
+    height: 8.44%;
+    width: 57.76%;
+    top: 91.56%;
+    right: 42.24%;
+    bottom: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .groupParent {
+    position: absolute;
+    top: 1318px;
+    left: 517px;
+    width: 116px;
+    height: 147.44px;
+    font-size: var(--font-size-9xl);
+  }
+  .cretanBreakFerenParent,
+  .groupInner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 176px;
+    height: 125px;
+  }
+  .groupInner {
+    height: 8.44%;
+    width: 38.07%;
+    top: 91.56%;
+    right: 61.93%;
+    bottom: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .groupContainer {
+    top: 1318px;
+    left: 844px;
+    width: 176px;
+    height: 147.44px;
+    font-size: var(--font-size-9xl);
+  }
+  .div6,
+  .groupContainer,
+  .groupDiv {
+    position: absolute;
+  }
+  .div6 {
+    top: 85px;
+    left: 55px;
+    font-size: var(--font-size-3xl);
+    line-height: 40px;
+    font-weight: 600;
+  }
+  .groupDiv {
+    top: 1318px;
+    left: 1172px;
+    width: 116px;
+    height: 147.44px;
+    font-size: var(--font-size-9xl);
+  }
+  .frameIcon,
+  .plantShopChild1,
+  .plantShopInner {
+    position: absolute;
+    top: 945px;
+    left: 502px;
+    width: 327px;
+    height: 350px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .frameIcon,
+  .plantShopChild1 {
+    left: 829px;
+  }
+  .plantShopChild1 {
+    left: 1157px;
+    width: 297px;
+  }
+  .days,
+  .hours,
+  .min,
+  .sec {
+    position: absolute;
+    top: 11px;
+    left: 20px;
+    line-height: 30px;
+    font-weight: 600;
+  }
+  .hours,
+  .min,
+  .sec {
+    left: 95px;
+  }
+  .min,
+  .sec {
+    left: 179px;
+  }
+  .sec {
+    left: 244px;
+  }
+  .daysContainer,
+  .daysGroup,
+  .daysParent {
+    position: absolute;
+    top: 1506px;
+    left: 517px;
+    background-color: var(--color-darkslategray);
+    width: 297px;
+    height: 82px;
+    overflow: hidden;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+  }
+  .daysContainer,
+  .daysGroup {
+    left: 844px;
+  }
+  .daysContainer {
+    left: 1172px;
+  }
+  .plantShopChild2 {
+    position: absolute;
+    top: 1623px;
+    left: 953px;
+    width: 104px;
+    height: 5px;
+  }
+  .layer2Icon1,
+  .layer3Icon {
+    position: absolute;
+    height: 100%;
+    width: 22.24%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 77.76%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.8;
+  }
+  .layer3Icon {
+    width: 10.42%;
+    right: 89.58%;
+    left: 0;
+  }
+  .livingThingGrows {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 50px;
+    line-height: 30px;
+    font-weight: 600;
+  }
+  .priceFrom,
+  .youHaveNoContainer {
+    position: absolute;
+    font-weight: 500;
+  }
+  .youHaveNoContainer {
+    top: 30.89%;
+    left: 12.54%;
+    line-height: 30px;
+    color: var(--color-black);
+  }
+  .priceFrom {
+    top: 65.64%;
+    left: 32.93%;
+  }
+  .shopNowContainer {
+    position: absolute;
+    height: 13.51%;
+    width: 17.42%;
+    top: 86.49%;
+    right: 41.29%;
+    bottom: 0;
+    left: 41.29%;
+    background-color: var(--color-darkslategray);
+    overflow: hidden;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+  }
+  .livingThingGrowsParent {
+    position: absolute;
+    height: 60.8%;
+    width: 44.95%;
+    top: 19.72%;
+    right: 27.56%;
+    bottom: 19.48%;
+    left: 27.49%;
+  }
+  .layer2Parent {
+    position: absolute;
+    top: 1698px;
+    left: 81px;
+    background-color: rgba(224, 233, 148, 0.25);
+    width: 1277px;
+    height: 426px;
+    overflow: hidden;
+    font-size: var(--font-size-xl);
+  }
+  .newArrivals {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-decoration: underline;
+    font-weight: 500;
+    color: var(--color-darkslategray);
+  }
+  .bestSellers,
+  .ceiling,
+  .pot,
+  .vase,
+  .wall {
+    position: absolute;
+    top: 0;
+    left: 144px;
+    font-weight: 500;
+  }
+  .ceiling,
+  .pot,
+  .vase,
+  .wall {
+    left: 280px;
+  }
+  .pot,
+  .vase,
+  .wall {
+    left: 447px;
+  }
+  .pot,
+  .vase {
+    left: 518px;
+  }
+  .vase {
+    left: 374px;
+  }
+  .newArrivalsParent {
+    position: absolute;
+    top: 2268px;
+    left: 445px;
+    width: 550px;
+    height: 22px;
+    color: var(--color-gray);
+  }
+  .plantShopChild3,
+  .plantShopChild4 {
+    position: absolute;
+    top: 2320px;
+    left: 65px;
+    width: 327px;
+    height: 269px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .plantShopChild4 {
+    top: 2754px;
+  }
+  .plantShopChild10,
+  .plantShopChild5,
+  .plantShopChild6,
+  .plantShopChild7,
+  .plantShopChild8,
+  .plantShopChild9 {
+    position: absolute;
+    top: 2319px;
+    left: 392px;
+    width: 327px;
+    height: 269px;
+    overflow: hidden;
+    object-fit: cover;
+  }
+  .plantShopChild10,
+  .plantShopChild6,
+  .plantShopChild7,
+  .plantShopChild8,
+  .plantShopChild9 {
+    top: 2753px;
+  }
+  .plantShopChild10,
+  .plantShopChild7,
+  .plantShopChild8,
+  .plantShopChild9 {
+    top: 2313px;
+    left: 578px;
+  }
+  .plantShopChild7{
+    left: 720px;
+    top: 2318px;
+  }
+  .plantShopChild10,
+  .plantShopChild8,
+  .plantShopChild9 {
+    top: 2753px;
+    left: 721px;
+  }
+  .plantShopChild10,
+  .plantShopChild9 {
+    top: 2319px;
+    left: 1048px;
+  }
+  .plantShopChild10 {
+    top: 2753px;
+  }
+  .loremIpsumDolor1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 600;
+  }
+  .groupChild1 {
+    position: absolute;
+    height: 13.67%;
+    width: 26.07%;
+    top: 40.66%;
+    right: 73.15%;
+    bottom: 45.67%;
+    left: 0.78%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .div7,
+  .div8 {
+    position: absolute;
+    font-weight: 600;
+  }
+  .div7 {
+    top: 68px;
+    left: 2px;
+    font-size: var(--font-size-base);
+    text-decoration: line-through;
+    color: var(--color-darkgray-100);
+  }
+  .div8 {
+    top: 64px;
+    left: 55px;
+    font-size: var(--font-size-3xl);
+  }
+  .loremIpsumDolorSitAmetGroup,
+  .loremIpsumDolorSitAmetParent {
+    position: absolute;
+    top: 2602px;
+    left: 78px;
+    width: 257px;
+    height: 91px;
+  }
+  .loremIpsumDolorSitAmetGroup {
+    top: 3036px;
+  }
+  .loremIpsumDolorSitAmetContainer,
+  .loremIpsumDolorSitAmetParent1 {
+    position: absolute;
+    top: 2602px;
+    left: 407px;
+    width: 257px;
+    height: 91px;
+  }
+  .loremIpsumDolorSitAmetParent1 {
+    top: 3036px;
+  }
+  .loremIpsumDolorSitAmetParent2,
+  .loremIpsumDolorSitAmetParent3 {
+    position: absolute;
+    top: 2602px;
+    left: 736px;
+    width: 257px;
+    height: 91px;
+  }
+  .loremIpsumDolorSitAmetParent3 {
+    top: 3036px;
+  }
+  .loremIpsumDolorSitAmetParent4,
+  .loremIpsumDolorSitAmetParent5 {
+    position: absolute;
+    top: 2603px;
+    left: 1063px;
+    width: 257px;
+    height: 91px;
+  }
+  .loremIpsumDolorSitAmetParent5 {
+    top: 3037px;
+  }
+  .findAPerfect,
+  .getStarted {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .getStarted {
+    top: 9px;
+    left: 17px;
+    font-weight: 500;
+  }
+  .getStartedWrapper {
+    position: absolute;
+    height: 35.35%;
+    width: 17.56%;
+    top: 64.65%;
+    right: 39.88%;
+    bottom: 0;
+    left: 42.56%;
+    background-color: var(--color-white);
+    overflow: hidden;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkslategray);
+  }
+  .findAPerfectPlantForYourParent,
+  .frameDiv {
+    position: absolute;
+    top: 136px;
+    left: 384px;
+    width: 672px;
+    height: 99px;
+  }
+  .frameDiv {
+    top: 3197px;
+    left: 0;
+    width: 1440px;
+    height: 371px;
+    overflow: hidden;
+    background-image: url(/public/frame-7207@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    font-size: var(--font-size-17xl);
+    color: var(--color-white);
+  }
+  .plantShopChild11 {
+    position: absolute;
+    top: 3638px;
+    left: 80px;
+    width: 450px;
+    height: 578px;
+  }
+  .getMoreInformation {
+    position: absolute;
+    top: 9px;
+    left: 18px;
+  }
+  .getMoreInformationWrapper {
+    position: absolute;
+    height: 7.8%;
+    width: 25.41%;
+    top: 92.2%;
+    right: 74.18%;
+    bottom: 0;
+    left: 0.41%;
+    background-color: var(--color-darkslategray);
+    overflow: hidden;
+    color: var(--color-white);
+  }
+  .loremIpsumDolor9 {
+    position: absolute;
+    top: 0;
+    left: 3px;
+    font-size: var(--font-size-9xl);
+    font-weight: 600;
+  }
+  .loremIpsumDolor10 {
+    position: absolute;
+    top: 64px;
+    left: 0;
+    font-size: var(--font-size-lg);
+    line-height: 32px;
+    font-weight: 500;
+    text-align: left;
+    display: inline-block;
+    width: 736px;
+  }
+  .frameParent {
+    position: absolute;
+    height: 7.95%;
+    width: 51.11%;
+    top: 66.13%;
+    right: 5.56%;
+    bottom: 25.92%;
+    left: 43.33%;
+    font-size: var(--font-size-sm);
+    color: var(--color-black);
+  }
+  .plantShopChild12 {
+    position: absolute;
+    top: 4231px;
+    left: 668px;
+    width: 104px;
+    height: 5px;
+  }
+  .indoorPlants {
+    position: absolute;
+    top: 0;
+    left: 0;
+    line-height: 50px;
+  }
+  .shopNow2 {
+    position: absolute;
+    top: 9px;
+    left: 22px;
+    font-weight: 500;
+  }
+  .shopNowFrame {
+    position: absolute;
+    height: 33.33%;
+    width: 46.46%;
+    top: 66.67%;
+    right: 26.77%;
+    bottom: 0;
+    left: 26.77%;
+    background-color: var(--color-white);
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkslategray);
+  }
+  .indoorPlantsParent,
+  .plantShopInner1 {
+    position: absolute;
+    top: 160px;
+    left: 185px;
+    width: 254px;
+    height: 105px;
+  }
+  .plantShopInner1 {
+    top: 4380px;
+    left: 80px;
+    width: 625px;
+    height: 424px;
+    overflow: hidden;
+    background-image: url(/public/frame-7208@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: left;
+    font-size: var(--font-size-17xl);
+    color: var(--color-white);
+  }
+  .shopNowWrapper1 {
+    position: absolute;
+    height: 33.33%;
+    width: 40.97%;
+    top: 66.67%;
+    right: 29.51%;
+    bottom: 0;
+    left: 29.51%;
+    background-color: var(--color-white);
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkslategray);
+  }
+  .outdoorPlantsParent,
+  .plantShopInner2 {
+    position: absolute;
+    top: 160px;
+    left: 166px;
+    width: 288px;
+    height: 105px;
+  }
+  .plantShopInner2 {
+    top: 4380px;
+    left: 735px;
+    width: 619px;
+    height: 424px;
+    overflow: hidden;
+    background-image: url(/public/frame-7209@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: left;
+    font-size: var(--font-size-17xl);
+    color: var(--color-white);
+  }
+  .loremIpsumDolor11 {
+    position: absolute;
+    top: 40px;
+    left: 26px;
+    line-height: 24px;
+    display: inline-block;
+    width: 355px;
+  }
+  .frameChild {
+    position: absolute;
+    top: 166px;
+    left: 26px;
+    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+    object-fit: cover;
+  }
+  .annaWhite {
+    position: absolute;
+    top: 167px;
+    left: 87px;
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+  }
+  .frameItem,
+  .layer2Icon2 {
+    position: absolute;
+    height: 5.18%;
+    width: 16.46%;
+    top: 80.83%;
+    right: 62.16%;
+    bottom: 13.98%;
+    left: 21.38%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .layer2Icon2 {
+    height: 50.38%;
+    width: 39.56%;
+    top: 49.62%;
+    right: 0;
+    bottom: 0;
+    left: 60.44%;
+    opacity: 0.3;
+  }
+  .loremIpsumDolorSitAmetCoContainer,
+  .loremIpsumDolorSitAmetCoGroup,
+  .loremIpsumDolorSitAmetCoParent {
+    position: absolute;
+    top: 4948px;
+    left: 80px;
+    background-color: var(--color-white);
+    box-shadow: 0 4px 15px rgba(37, 82, 59, 0.15);
+    width: 407px;
+    height: 240px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-black);
+  }
+  .loremIpsumDolorSitAmetCoContainer,
+  .loremIpsumDolorSitAmetCoGroup {
+    top: 4945px;
+    left: 517px;
+  }
+  .loremIpsumDolorSitAmetCoContainer {
+    left: 954px;
+  }
+  .plantShopChild13 {
+    position: absolute;
+    top: 5220px;
+    left: 668px;
+    width: 104px;
+    height: 5px;
+  }
+  .loremIpsumDolor14 {
+    position: absolute;
+    top: 107px;
+    left: 80px;
+    line-height: 25px;
+    font-weight: 500;
+    display: inline-block;
+    width: 317px;
+  }
+  .frameChild3,
+  .frameChild4,
+  .frameChild5,
+  .frameChild6,
+  .frameChild7 {
+    position: absolute;
+    top: 227px;
+    left: 80px;
+    border-radius: var(--br-11xs);
+    width: 35px;
+    height: 35px;
+    overflow: hidden;
+  }
+  .frameChild4,
+  .frameChild5,
+  .frameChild6,
+  .frameChild7 {
+    left: 170px;
+  }
+  .frameChild5,
+  .frameChild6,
+  .frameChild7 {
+    left: 215px;
+  }
+  .frameChild6,
+  .frameChild7 {
+    left: 125px;
+  }
+  .frameChild7 {
+    left: 260px;
+  }
+  .quickLinks {
+    position: absolute;
+    top: 0;
+    left: 8px;
+    font-size: var(--font-size-lg);
+    line-height: 25px;
+  }
+  .lineDiv {
+    position: absolute;
+    top: 33.5px;
+    left: 6.5px;
+    border-top: 3px solid var(--color-khaki-100);
+    box-sizing: border-box;
+    width: 43px;
+    height: 3px;
+  }
+  .ellipseDiv,
+  .groupChild10,
+  .groupChild11,
+  .groupChild12,
+  .groupChild9 {
+    position: absolute;
+    top: 74px;
+    left: 0;
+    border-radius: 50%;
+    background-color: var(--color-white);
+    width: 7px;
+    height: 7px;
+  }
+  .groupChild10,
+  .groupChild11,
+  .groupChild12,
+  .groupChild9 {
+    top: 109px;
+  }
+  .groupChild10,
+  .groupChild11,
+  .groupChild12 {
+    top: 179px;
+  }
+  .groupChild11,
+  .groupChild12 {
+    top: 144px;
+  }
+  .groupChild12 {
+    top: 214px;
+  }
+  .aboutUs,
+  .blogsArticle,
+  .contactUs1,
+  .privacyPolicy,
+  .termsAndCondition {
+    position: absolute;
+    top: 65px;
+    left: 17px;
+    line-height: 25px;
+    font-weight: 500;
+  }
+  .blogsArticle,
+  .contactUs1,
+  .privacyPolicy,
+  .termsAndCondition {
+    top: 100px;
+  }
+  .contactUs1,
+  .privacyPolicy,
+  .termsAndCondition {
+    top: 170px;
+  }
+  .contactUs1,
+  .termsAndCondition {
+    top: 135px;
+  }
+  .contactUs1 {
+    top: 205px;
+  }
+  .quickLinksParent {
+    position: absolute;
+    top: 66px;
+    left: 478px;
+    width: 178px;
+    height: 230px;
+  }
+  .newsLetter {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: var(--font-size-lg);
+    line-height: 25px;
+  }
+  .groupChild13 {
+    position: absolute;
+    top: 33.5px;
+    left: -1.5px;
+    border-top: 3px solid var(--color-khaki-100);
+    box-sizing: border-box;
+    width: 43px;
+    height: 3px;
+  }
+  .entarEmailAddress {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    line-height: 25px;
+  }
+  .entarEmailAddressWrapper {
+    position: absolute;
+    top: 65px;
+    left: 0;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-white);
+    width: 258px;
+    height: 45px;
+    overflow: hidden;
+    color: #a7a7a7;
+  }
+  .weNeverSpan {
+    position: absolute;
+    top: 179px;
+    left: 0;
+    line-height: 25px;
+    color: #b1b1b1;
+  }
+  .subscribe {
+    position: absolute;
+    top: 13px;
+    left: 31px;
+    font-weight: 500;
+  }
+  .subscribeWrapper {
+    position: absolute;
+    top: 125px;
+    left: 0;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-khaki-100);
+    width: 138px;
+    height: 44px;
+    overflow: hidden;
+    text-align: center;
+    color: var(--color-darkslategray);
+  }
+  .newsLetterParent,
+  .vectorIcon1 {
+    position: absolute;
+    top: 66px;
+    left: 740px;
+    width: 258px;
+    height: 204px;
+  }
+  .vectorIcon1 {
+    height: 11.27%;
+    width: 5.72%;
+    top: 33.85%;
+    right: 94.28%;
+    bottom: 54.88%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .div23,
+  .infoexamplecom,
+  .kingStMelbourne {
+    position: absolute;
+    top: 60px;
+    left: 27px;
+    line-height: 23px;
+    font-weight: 500;
+    display: inline-block;
+    width: 270px;
+  }
+  .div23,
+  .infoexamplecom {
+    top: 122px;
+    width: 150px;
+  }
+  .div23 {
+    top: 169px;
+    left: 26px;
+    width: 133px;
+  }
+  .vectorIcon2,
+  .vectorIcon3 {
+    position: absolute;
+    height: 7.29%;
+    width: 5.72%;
+    top: 66.15%;
+    right: 94.28%;
+    bottom: 26.56%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vectorIcon3 {
+    height: 8.85%;
+    width: 4.38%;
+    top: 89.58%;
+    right: 95.62%;
+    bottom: 1.56%;
+  }
+  .contactParent,
+  .layer2Icon5 {
+    position: absolute;
+    top: 65px;
+    left: 1101px;
+    width: 297px;
+    height: 192px;
+  }
+  .layer2Icon5 {
+    height: 14.28%;
+    width: 3.61%;
+    top: 10.11%;
+    right: 90.83%;
+    bottom: 75.61%;
+    left: 5.56%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .planty1 {
+    position: absolute;
+    top: 52px;
+    left: 142px;
+    font-size: var(--font-size-6xl);
+    letter-spacing: 0.05em;
+    font-family: var(--font-times-new-roman);
+    text-align: center;
+  }
+  .loremIpsumDolorSitAmetCoParent1 {
+    position: absolute;
+    top: 5295px;
+    left: 0;
+    background-color: var(--color-darkslategray);
+    width: 1440px;
+    height: 356px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-mini);
+    color: var(--color-white);
+  }
+  .plantShop {
+    position: relative;
+    background-color: var(--color-white);
+    width: 103.7%;
+    height: 5651px;
+    /* margin-left: 0px; */
+    transform: translateX(-50px);
+    overflow: hidden;
+    /* overflow-x: hidden; */
+    text-align: center;
+    font-size: var(--font-size-lg);
+    color: var(--color-darkslategray);
+    font-family: var(--font-montserrat);
+  }
+  

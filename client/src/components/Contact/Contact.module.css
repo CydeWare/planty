@@ -1,0 +1,96 @@
+.watercolorPaperTexture1Icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1440px;
+    height: 900px;
+    object-fit: cover;
+    z-index: -5;
+  }
+  .watercolorPaperTexture2Icon,
+  .watercolorPaperTexture3Icon,
+  .watercolorPaperTexture4Icon {
+    position: absolute;
+    top: 900px;
+    left: 0;
+    width: 1440px;
+    height: 900px;
+    object-fit: cover;
+    z-index: -5;
+  }
+  .watercolorPaperTexture3Icon,
+  .watercolorPaperTexture4Icon {
+    position: absolute;
+    top: 1800px;
+    z-index: -5;
+  }
+  .watercolorPaperTexture4Icon {
+    position: absolute;
+    top: 2700px;
+    z-index: -5;
+  }
+  .watercolorPaperTexture5Icon,
+  .watercolorPaperTexture6Icon,
+  .watercolorPaperTexture7Icon {
+    position: absolute;
+    top: 3592px;
+    left: 0;
+    width: 1440px;
+    height: 900px;
+    object-fit: cover;
+    z-index: -5;
+  }
+  .watercolorPaperTexture6Icon,
+  .watercolorPaperTexture7Icon {
+    position: absolute;
+    top: 4492px;
+    z-index: -5;
+  }
+  .watercolorPaperTexture7Icon {
+    position: absolute;
+    top: 5392px;
+    z-index: -5;
+  }
+  
+  
+  .plantShop {
+    position: absolute;
+    background-color: var(--color-white);
+    width: 103.7%;
+    /* height: 5651px; */
+    /* margin-left: 0px; */
+    transform: translateX(-50px);
+    overflow: hidden;
+    /* overflow-x: hidden; */
+    text-align: center;
+    font-size: var(--font-size-lg);
+    color: var(--color-darkslategray);
+    font-family: var(--font-montserrat);
+  }
+  
+  .mainPlantImage{
+    width: 425px;
+    margin-top: 150px;
+  }
+  
+  .plantShopChild11 {
+  
+    width: 450px;
+    height: 578px;
+  }
+  /* .getMoreInformation {
+  
+  } */
+  .getMoreInformationWrapper {
+    height: 7.8%;
+    width: 25.41%;
+    background-color: var(--color-darkslategray);
+    overflow: hidden;
+    color: var(--color-white);
+  }
+  .loremIpsumDolor9 {
+    top: 0;
+    left: 3px;
+    font-size: var(--font-size-9xl);
+    font-weight: 600;
+  }
